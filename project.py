@@ -1,5 +1,5 @@
 # Drawing project
-# Author: Your name
+# Author: Jacob Wolf
 
 from turtle import *
 
