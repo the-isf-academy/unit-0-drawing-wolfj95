@@ -44,12 +44,15 @@ Using these specifications, the function will call a `draw_sticker()` function w
 This dictionary will include the following:
 
 - `bottle_radius`: the radius of the main cylinder of the bottle_sketch
+- `bottle_height`: the height of the bottle
+- `lip_radius`: the radius of the silver lip where the metal base of the bottle meets the cap
+- `taper_height`: the height of the taper at the top metal portion of the bottle
 - `cap_radius`: the radius of the cap
 - `cap_height`: the height of the cap
-- `bottle_height`: the height of the bottle
 - `handle_angle`: the angle the handle makes with the cap
 - `bottle_rotation`: the rotation of the bottle based on its rotation around a vertical axis where 0º is defined as the handle attachment point pointing toward the viewer.
-
+- `depth`: a number between 0 and 1 representing the perspective at which the viewer should see the bottle
+- `color`: the color of the bottle
 ## Milestones
 
 - **Milestone 0**: My first milestone will be to complete the `draw_base()` and `draw_cap()` functions.
