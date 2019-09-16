@@ -8,14 +8,14 @@ from turtle import hideturtle
 def default_bottle_dimensions():
     return {
         'bottle_radius': 75,
-        'bottle_height': 250,
+        'bottle_height': 325,
         'lip_radius': 53,
-        'taper_height': 10,
+        'taper_height': 15,
         'cap_radius': 50,
-        'cap_height': 35,
+        'cap_height': 40,
         'handle_angle': 45,
         'bottle_rotation': 0,
-        'depth': .2,
+        'depth': 0.4,
         'color': 'yellow'
     }
 
