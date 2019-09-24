@@ -33,9 +33,9 @@ My project only achieves a 7 (and not an 8) because I some of my functions are s
 I have commented each of my functions with the expected inputs and outputs of the function as well as a description of what the function does. MY planning document offers an overview of the project and what's included in each file, with a description of each function.
 
 > 👩🏻‍🏫👨🏻‍🏫👎❗The teachers disagree with Mr. Wolf here. We will give him a 6 instead of a 7 here because: 
-- he did not mention specifics in his self-assessment above
-- his planning.md file does not include information about the modules he created and used. It's still not fully readable to a stranger who wants to run his project.
-- he did not update his planning.md file after he finished the python code 
+> - he did not mention specifics in his self-assessment above
+> - his planning.md file does not include information about the modules he created and used. It's still not fully readable to a stranger who wants to run his project.
+> - he did not update his planning.md file after he finished the python code 
 
 ## [B.ii] Plans, milestones, and timelines
 **My project achieves level 7 expectations on this category. Here's why.**
