@@ -22,7 +22,7 @@ def default_bottle_dimensions():
         'cap_height': 40,
         'handle_angle': 45,
         'y_rotation': 0,
-        'x_rotation': .2,
+        'x_rotation': .6,
         'color': 'yellow'
     }
 
