@@ -45,7 +45,7 @@ My project proposal was helpful to me when planning out my work. It helped me pr
 **My project achieves level 2 expectations on this category. Here's why.**
 The development of my project is pretty poorly documented. I did not make very many commits and there were huge changes between each of my commits. This made describing the work I did very difficult, and so my commit messages are not very descriptive. Still, I have some commit messages and you can get an idea of the work I did to complete this project.
 
-> 👩🏻‍🏫👨🏻‍🏫👎❗The teachers disagree with Mr. Wolf here; he was being too hard on himself. We will give him a 4 instead of a 4. We looked through each of his commit messages and noticed that he had at least 5 commits. It's true that they were not interpersed throughout the project very well, but each time he committed, he did write meaningful summaries. 
+> 👩🏻‍🏫👨🏻‍🏫👎❗The teachers disagree with Mr. Wolf here; he was being too hard on himself. We will give him a 4 instead of a 2. We looked through each of his commit messages and noticed that he had at least 5 commits. It's true that they were not interpersed throughout the project very well, but each time he committed, he did write meaningful summaries. 
 
 ## [B.iv] Personally meaningful project
 **My project achieves level 6 expectations on this category. Here's why.**
